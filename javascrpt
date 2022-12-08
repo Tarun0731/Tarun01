@@ -1,0 +1,7 @@
+const myJSON = '{"name":"John", "age":31, "city":"New York"}';
+const myObj = JSON.parse(myJSON);
+document.getElementById("demo").innerHTML = myObj.name;
+:wq!
+[A[C[Cgit status
+[D[A[C[C[C[C[C[C
+
